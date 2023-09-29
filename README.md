@@ -16,7 +16,10 @@ java -jar pdfbox-app-2.0.26.jar PDFDebugger Sample.pdf
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/42716731/168443527-3122b742-aa3f-4b90-8e93-05cc1dfa6eb3.png">
 
 #### Example CSV : data.csv
+|157 160|197 150|
+|-------|-------|
+|John   | ABC   |
+|Doe    | XYZ   |
 
-![image](https://user-images.githubusercontent.com/42716731/168443643-34b08c43-6960-4171-85b8-48118fdc69f5.png)
 
 6. Last step is to run the main class. This will generate the filled pdfs in folder named exports.
